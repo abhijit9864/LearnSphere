@@ -6,6 +6,7 @@
 * Tailwind CSS
 * React Query
 * Zustand / Redux
+* React Native
 
 ## Backend
 
